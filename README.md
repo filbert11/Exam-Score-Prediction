@@ -4,7 +4,6 @@
 A public educational institute in Singapore wants to build a model that can predict the students’ O-level mathematics examination scores to identify weaker students prior to the examination timely. Additional support can then be rendered to the students to ensure they are more prepared for the upcoming test.
 
 The dataset used in this project is downloaded from https://techassessment.blob.core.windows.net/aiap-preparatory-bootcamp/score.db. This dataset belongs to AI Singapore (AISG) which they published under AIAP Technical Assessment Past Year Series.
-You may refer to the details at https://connect.aisingapore.org/2021/01/aiap-technical-assessment/
 
 ## Overview of the folder structure
 - src
